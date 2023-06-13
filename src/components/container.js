@@ -8,8 +8,8 @@ import Resume from './pages/resume';
 export default function Container() {
     const [currentPage, setPage] = useState('Home');
     const renderPage = () => {
-      if (currentPage === 'AboutMe') {
-        return <AboutMe />;
+      if (currentPage === 'Contact') {
+        return <Contact />;
       }
       if (currentPage === 'Portfolio') {
         return <Portfolio />;
@@ -17,7 +17,7 @@ export default function Container() {
       if (currentPage === 'Resume') {
         return <Resume />;
       }
-      return <Contact />;
+      return <AboutMe />;
     };
   
     const pageSwap = (page) => setPage(page);
