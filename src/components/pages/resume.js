@@ -2,8 +2,8 @@ import React from 'react';
 
 export default function Home() {
   return (
-    <div>
-      <h1>Resume</h1>
+    <div class="container componentContainer">
+      <p class="componentHead">Resume</p>
       <p>
       </p>
     </div>

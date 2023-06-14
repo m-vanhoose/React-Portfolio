@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import Nav from './nav';
+import Footer from './footer'
 import Contact from './pages/contact';
 import AboutMe from './pages/aboutMe';
 import Portfolio from './pages/portfolio';
@@ -26,6 +27,7 @@ export default function Container() {
       <div>
         <Nav currentPage={currentPage} pageChange={pageSwap} />
         {renderPage()}
+        <Footer />
       </div>
     );
   }
