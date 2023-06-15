@@ -29,7 +29,7 @@ code {
 }
 
 .componentHead {
-  font-size: 28px;
+  font-size: 30px;
   color: #0D62E1;
 }
 
@@ -46,6 +46,7 @@ code {
   margin-top: -16px;
   border-bottom-left-radius: 10px;
   border-bottom-right-radius: 10px;
+  margin-bottom: 85px;
 }
 
 .footerComponent {
@@ -56,4 +57,33 @@ code {
   background-color: #0D223F;
   color: #0D62E1;
   text-align: center;
+}
+
+.aboutText {
+  font-size: 28px;
+}
+
+.self {
+  border-radius: 25%;
+  max-width: 100%;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.git {
+  width: 5%;
+  border-radius:25%;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.portfolio {
+  width:100%;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  border-radius: 10px;
+}
+
+.submit {
+  margin-top: 10px;
 }
