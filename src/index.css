@@ -71,7 +71,7 @@ code {
 }
 
 .git {
-  width: 5%;
+  max-width: 2%;
   border-radius:25%;
   margin-top: 5px;
   margin-bottom: 5px;
@@ -87,4 +87,49 @@ code {
 
 .submit {
   margin-top: 10px;
+}
+
+.resumeSection {
+  margin-top: 10px;
+  margin-left: 20px;
+  font-size: 25px;
+}
+
+.job {
+  margin-top: 5px;
+  margin-left: 30px;
+  font-size: 18px;
+}
+
+.jobTime {
+  margin-top: 5px;
+  margin-left: 45px;
+  font-size: 18px;
+}
+
+.desc {
+  list-style-type: none;
+  margin-top: 5px;
+  margin-left: 35px;
+  font-size: 15px;
+}
+
+.desc li::before {
+  content: "-";
+}
+
+.school {
+  margin-top: 5px;
+  margin-left: 30px;
+  font-size: 18px;
+}
+
+.courses {
+  margin-top: 5px;
+  margin-left: 45px;
+  font-size: 18px;
+}
+
+.resumeLi {
+  margin-top: 5px;
 }
