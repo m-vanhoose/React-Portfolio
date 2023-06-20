@@ -24,7 +24,6 @@ export default function Portfolio() {
             <img class="portfolio" src={planner} alt="day-planner"></img>
           </a>
         </div>
-        
         <div class="col-6">
           <a href="https://editor-pwa.herokuapp.com/">
             <img class="portfolio" src={editor} alt="editor-pwa"></img>
