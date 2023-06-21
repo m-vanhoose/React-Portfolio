@@ -43,6 +43,19 @@ export default function Home() {
                 <li class="resumeLi">Report on any issues found in any building to supervisor</li>
               </ul>
             <div class="resumeSection">Education</div>
+            <div class="school">The Ohio State University, Columbus Ohio — Coding Boot Camp</div>
+            <div class="courses">Completed courses:</div>
+              <ul class="desc">
+                <li class="resumeLi">Full-Stack Web Development Winter 2023</li>
+              </ul>
+            <div class="school">Columbus State Community College, Columbus Ohio — Skilled Trades Technology-Facilities Maintenance</div>
+            <div class="courses">Completed courses:</div>
+              <ul class="desc">
+                <li class="resumeLi">Math of Measurement Spring 2021</li>
+                <li class="resumeLi">Principles of Refrigeration Spring 2021</li>
+                <li class="resumeLi">Carpentry Fundamentals Autumn 2021</li>
+                <li class="resumeLi">Electrical Fundamentals Autumn 2021</li>
+              </ul>
             <div class="school">Columbus State Community College, Columbus Ohio — Associates of Science</div>
             <div class="courses">Completed courses:</div>
               <ul class="desc">
@@ -51,13 +64,26 @@ export default function Home() {
                 <li class="resumeLi">College Algebra Summer 2018</li>
                 <li class="resumeLi">Composition I Summer 2018</li>
               </ul>
-              <div class="school">Columbus State Community College, Columbus Ohio — Skilled Trades Technology-Facilities Maintenance</div>
-            <div class="courses">Completed courses:</div>
+            <div class="resumeSection">Proficiencies</div>
+            <div class="proficiencies">Front-end</div>
               <ul class="desc">
-                <li class="resumeLi">Math of Measurement Spring 2021</li>
-                <li class="resumeLi">Principles of Refrigeration Spring 2021</li>
-                <li class="resumeLi">Carpentry Fundamentals Autumn 2021</li>
-                <li class="resumeLi">Electrical Fundamentals Autumn 2021</li>
+                <li class="resumeLi">HTML</li>
+                <li class="resumeLi">CSS</li>
+                <li class="resumeLi">Javascript</li>
+                <li class="resumeLi">JQuery</li>
+                <li class="resumeLi">Responsive Design</li>
+                <li class="resumeLi">React</li>
+                <li class="resumeLi">Bootstrap</li>
+              </ul>
+            <div class="proficiencies">Back-end</div>
+              <ul class="desc">
+                <li class="resumeLi">API's</li>
+                <li class="resumeLi">Node</li>
+                <li class="resumeLi">Express</li>
+                <li class="resumeLi">MySQL, Sequelize</li>
+                <li class="resumeLi">MongoDB, Mongoose</li>
+                <li class="resumeLi">REST</li>
+                <li class="resumeLi">GraphQL</li>
               </ul>
           </div>
         </div>
