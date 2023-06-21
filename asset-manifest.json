@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a737393b.css",
+    "main.js": "/static/js/main.b5a9f4cc.js",
+    "static/js/787.a2cb61a6.chunk.js": "/static/js/787.a2cb61a6.chunk.js",
+    "static/media/e-commerce.png": "/static/media/e-commerce.9dc2d0203c16dd216819.png",
+    "static/media/sauna-games.png": "/static/media/sauna-games.4027703a36d7b30e7ddf.png",
+    "static/media/Wedding.jpeg": "/static/media/Wedding.c1afcdb279d7cff111ee.jpeg",
+    "static/media/day-planner-1.png": "/static/media/day-planner-1.1a7d312405ea0b43c885.png",
+    "static/media/Weather-app.PNG": "/static/media/Weather-app.67fe3d5868bb2017349d.PNG",
+    "static/media/note-taker.png": "/static/media/note-taker.eee1be74b7df87558af6.png",
+    "static/media/editor-pwa.png": "/static/media/editor-pwa.e79d2a6dfdb671f4ed6d.png",
+    "index.html": "/index.html",
+    "main.a737393b.css.map": "/static/css/main.a737393b.css.map",
+    "main.b5a9f4cc.js.map": "/static/js/main.b5a9f4cc.js.map",
+    "787.a2cb61a6.chunk.js.map": "/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a737393b.css",
+    "static/js/main.b5a9f4cc.js"
+  ]
+}
